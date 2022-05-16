@@ -1,5 +1,4 @@
 # 4:Utwórz skrypt, który zapyta użytkownika o tytuł książki, nazwisko autora, liczbę stron
-
 books_title = input('Enter the title of the book')
 author_name = input("Enter the author's name")
 number_of_pages = input('Enter the number of pages')
