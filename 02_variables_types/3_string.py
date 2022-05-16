@@ -33,7 +33,6 @@ counter = fruit.count('na')
 print(counter)
 
 
-
 quote = '„Honesty is the first chapter in the book of wisdom.”'
 # Policz wszystkie znaki w napisie
 print(len(quote))
@@ -52,4 +51,3 @@ print(quote[mid_index::3])
 print(quote[::-1])
 # Zamień wisdom na słowo friendship
 print(quote.replace('wisdom', 'friendship'))
-

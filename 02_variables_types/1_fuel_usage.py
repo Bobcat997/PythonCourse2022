@@ -1,6 +1,6 @@
-usage_fuel = 6.4
-distance = 120
-price_of_fuel = 5.04
+usage_fuel = float(input('Spalanie paliwa(l)'))
+distance = float(input('Podaj dystans wyprawy(km)'))
+price_of_fuel = float(input('Cena paliwa(zł)'))
 
 cost = price_of_fuel /100 * distance * usage_fuel
 
