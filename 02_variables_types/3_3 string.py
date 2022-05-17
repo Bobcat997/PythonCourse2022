@@ -2,7 +2,6 @@
 # Pozwól użytkownikowi wprowadzić dowolne zdanie.
 # Następnie sprawdź czy wprowadzone wyrażenie jest palindromem.
 
-
 Palindrome = input('Podaj palindrom')
 
 value = Palindrome.replace(" ", '').lower() == Palindrome.replace(" ", '').lower()[::-1]
