@@ -9,4 +9,3 @@ value = Palindrome.replace(" ", '').lower() == Palindrome.replace(" ", '').lower
 print(f'is the {Palindrome.lower()} a palindrome-->', value)
 
 
-
