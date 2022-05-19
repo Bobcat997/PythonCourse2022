@@ -1,4 +1,4 @@
-for letter in "string":
+or letter in "string":
     if letter == "i":
         break
 
