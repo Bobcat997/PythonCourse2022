@@ -6,7 +6,6 @@ computer_wins = 0
 user_wins = 0
 
 for i in range(num_of_rounds):
-
     choice = input("Wybierz papier, kamien albo nożyce -> ")
     computer = random.choice(words)[0]
     if choice == computer:
@@ -14,18 +13,17 @@ for i in range(num_of_rounds):
         continue
     for pair in words:
         if choice == pair[0] and computer == pair[1]:
-            user_wins += 1
+            user_wins = 1 + user_wins
             draw = 0
             print("Gracz wygral runde")
             break
         elif choice == pair[1] and computer == pair[0]:
-            computer_wins += 1
+            computer_wins = 1 + computer_wins
             draw = 0
             print("Komputer wygral runde")
             break
 
 print()
-print("-----------")
 if user_wins > computer_wins:
     print("Gracz wygrał")
 elif computer_wins > user_wins:

@@ -6,8 +6,10 @@ for letter in txt:
 
 names = ["Ada", "Julia", "Ruby", "Perl"]
 
+
 for step in names:
     print('Hello!', step)
+
 
 
 for number in range(5, 20, 2):
