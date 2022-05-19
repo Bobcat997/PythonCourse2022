@@ -1,4 +1,4 @@
-txt = "Pyth"
+txt = "Pythaaa"
 if len(txt) > 5:
     if 'a' in txt:
         print(txt.replace('a', 'z'))

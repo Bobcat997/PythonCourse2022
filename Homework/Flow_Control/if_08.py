@@ -1,6 +1,5 @@
 #Sortowanie. Trzy dowolne liczby podane przez użytkownika zapisz do trzech zmiennych.
 #Znajdź największą liczbę. Wyświetl liczby od największej do najmniejszej.
-
 num1 = float(input('Podaj pierwszą liczbę-->'))
 num2 = float(input('Podaj drugą liczbę-->'))
 num3 = float(input('Podaj trzecią liczbę-->'))
