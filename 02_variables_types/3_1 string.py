@@ -3,3 +3,4 @@ s1 = 'Python'
 s2 = 'PHP'
 s3 = s1[0:3] + s2[0:3] + s1[3:6]
 print(s3)
+
