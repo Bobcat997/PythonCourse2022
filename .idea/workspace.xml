@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ea532f9-f2db-42a7-97b2-81490cf70ceb" name="Changes" comment="'Flow_Control'">
-      <change afterPath="$PROJECT_DIR$/Homework/modules/02_delta.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/modules/07_fibonacci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/modules/hangman/hangman.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/modules/hangman/script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Exceptions/error_list.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Exceptions/exceptions_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Exceptions/exceptions_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Exceptions/excepttions_06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Exceptions/test1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Exceptions/test2.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,8 +68,8 @@
       <recent name="C:\Users\bszcz\Desktop\kurs\PythonCourse\Homework\Flow_Control" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.script (1)">
-    <configuration name="02_delta" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.exceptions_04">
+    <configuration name="exceptions_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonCourse" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,11 +77,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework/modules" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework/Exceptions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework/modules/02_delta.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework/Exceptions/exceptions_02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exceptions_09" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exceptions_04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonCourse" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,11 +98,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_exceptions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework/Exceptions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_exceptions/exceptions_09.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework/Exceptions/exceptions_04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="excepttions_06 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonCourse" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,11 +119,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework/modules" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework/Exceptions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\bszcz\Desktop\kurs\PythonCourse\Homework\modules\Fibonacci\fibonacci.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework/Exceptions/excepttions_06.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="excepttions_06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonCourse" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework/Exceptions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\bszcz\Desktop\kurs\PythonCourse\Homework\Exceptions\excepttions_06.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,34 +195,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="script" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonCourse" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework/modules/hangman" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework/modules/hangman/script.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exceptions_04" />
+        <item itemvalue="Python.excepttions_06 (1)" />
+        <item itemvalue="Python.exceptions_02" />
+        <item itemvalue="Python.excepttions_06" />
         <item itemvalue="Python.script (1)" />
-        <item itemvalue="Python.07_fibonacci" />
-        <item itemvalue="Python.02_delta" />
-        <item itemvalue="Python.script" />
-        <item itemvalue="Python.exceptions_09" />
       </list>
     </recent_temporary>
   </component>
