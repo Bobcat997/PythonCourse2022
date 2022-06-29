@@ -5,17 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ea532f9-f2db-42a7-97b2-81490cf70ceb" name="Changes" comment="'Flow_Control'">
-      <change afterPath="$PROJECT_DIR$/10_algorithmics/foo_bar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_algorithmics/graph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_algorithmics/sum_naturals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_OOP_intro/01_OOP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_OOP_intro/03_OOP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_OOP_intro/05_OOP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_OOP_intro/script.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_OOP_intro/stos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_OOP_intro/student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_OOP/01_OOP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_OOP/account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_OOP/dog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_OOP/logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_OOP/point.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_OOP/shapes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_OOP/smartwatch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/algotithmics/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/algotithmics/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/algotithmics/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/algotithmics/04.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,8 +73,8 @@
       <recent name="C:\Users\bszcz\Desktop\kurs\PythonCourse\Homework\Flow_Control" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.stos">
-    <configuration name="01_OOP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.03">
+    <configuration name="01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonCourse" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,11 +82,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_OOP_intro" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework/algotithmics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_OOP_intro/01_OOP.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework/algotithmics/01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_OOP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonCourse" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,11 +103,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_OOP_intro" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework/algotithmics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_OOP_intro/03_OOP.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\bszcz\Desktop\kurs\PythonCourse\Homework\algotithmics\02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonCourse" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework/algotithmics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework/algotithmics/03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +158,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="script" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="point" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonCourse" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,11 +166,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_OOP_intro" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_OOP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_OOP_intro/script.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_OOP/point.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,7 +179,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="stos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="smartwatch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonCourse" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -165,32 +187,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_OOP_intro" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_OOP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_OOP_intro/stos.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="student" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonCourse" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_OOP_intro" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_OOP_intro/student.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_OOP/smartwatch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.stos" />
-        <item itemvalue="Python.03_OOP" />
-        <item itemvalue="Python.01_OOP" />
-        <item itemvalue="Python.script" />
-        <item itemvalue="Python.student" />
+        <item itemvalue="Python.03" />
+        <item itemvalue="Python.02" />
+        <item itemvalue="Python.01" />
+        <item itemvalue="Python.point" />
+        <item itemvalue="Python.smartwatch" />
       </list>
     </recent_temporary>
   </component>
